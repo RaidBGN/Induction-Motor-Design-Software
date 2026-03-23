@@ -24,7 +24,7 @@ This tool was developed to streamline the electrical machine design process, tak
 The calculations performed by this software are based on established electromagnetic design principles for rotating electrical machines. 
 
 For a deep dive into the physics, formulas, and sizing methodologies used in the backend of this application, please refer to the detailed engineering report:
-👉 **[View the Technical Design Report (PDF)](./Design_Report.pdf)** *(Note: Make sure to upload your PDF and rename the link here to match your PDF's exact file name!)*
+👉 **[View the Technical Design Report (PDF)](./Design of 3 squirel cage induction machine guide.pdf)** *(Note: Make sure to upload your PDF and rename the link here to match your PDF's exact file name!)*
 
 ## 📸 Screenshots
 
