@@ -34,7 +34,7 @@ For a deep dive into the physics, formulas, and sizing methodologies used in the
 ## 🚀 Download & Usage
 
 You can download the compiled Windows executable to test the software yourself:
-👉 **[Download Latest Release Here](link-to-your-release-or-zip-file)**
+👉 **[Download Latest Release Here]([link-to-your-release-or-zip-file](https://github.com/RaidBGN/Induction-Motor-Design-Software/releases/tag/v1.0))**
 
 ---
 *Developed by Raid Boughani , ATCHI Abderrezak ,MATALLAH Mohammed Achref | Electrical Engineering Students at National Polytechnic School of Algiers*
