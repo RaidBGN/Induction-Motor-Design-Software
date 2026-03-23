@@ -27,8 +27,9 @@ For a deep dive into the physics, formulas, and sizing methodologies used in the
 👉 **[View the Technical Design Report (PDF)](./Design_Report.pdf)** *(Note: Make sure to upload your PDF and rename the link here to match your PDF's exact file name!)*
 
 ## 📸 Screenshots
-
-*(Drag and drop 2 or 3 screenshots of your software interface here! Show the 2D view and the formula screen if possible)*
+<img width="1395" height="926" alt="screen1" src="https://github.com/user-attachments/assets/eed7180b-2ad0-4821-9b31-fc86cc9a62da" />
+<img width="1390" height="915" alt="screen2" src="https://github.com/user-attachments/assets/079c9fc5-8657-4c1f-b772-fc00d1ed4d31" />
+<img width="1346" height="516" alt="screen3" src="https://github.com/user-attachments/assets/d2aaf310-c8f6-4ccf-8b61-637cf343eb9b" />
 
 ## 🚀 Download & Usage
 
