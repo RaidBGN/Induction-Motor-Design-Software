@@ -37,4 +37,4 @@ You can download the compiled Windows executable to test the software yourself:
 👉 **[Download Latest Release Here](link-to-your-release-or-zip-file)**
 
 ---
-*Developed by Raid Boughani , ATCHI Abderrezak ,MATALLAH Mohammed Achref | Electrical Engineering Student at National Polytechnic School of Algiers*
+*Developed by Raid Boughani , ATCHI Abderrezak ,MATALLAH Mohammed Achref | Electrical Engineering Students at National Polytechnic School of Algiers*
